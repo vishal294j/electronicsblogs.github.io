@@ -14,10 +14,10 @@ This repository serves as a hub for electronics enthusiasts, hobbyists, and DIYe
 
 ## How to Contribute
 
-We welcome contributions from the community! If you have an electronics project, tutorial, or blog post that you'd like to share with others, feel free to submit a pull request. Please make sure your contributions align with our content guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+We welcome contributions from the community! If you have an electronics project, tutorial, or blog post that you'd like to share with others, feel free to submit a pull request. 
 
 ## Get in Touch
 
-Have questions, feedback, or suggestions? Feel free to reach out to us. You can contact us via [email](mailto:youremail@example.com) or open an issue on this repository.
+Have questions, feedback, or suggestions? Feel free to reach out to us.
 
 Happy tinkering!
