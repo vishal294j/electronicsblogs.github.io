@@ -2,6 +2,10 @@
 
 Welcome to the Electronics Blog and Projects repository! This repository hosts a collection of blog posts, tutorials, and projects related to electronics, DIY electronics projects, circuit designs, and more.
 
+## Blogs
+- [Raspberry Pi Pico](RaspberryPi-Pico/Tutorial 1/index.html)
+
+
 ## About
 
 This repository serves as a hub for electronics enthusiasts, hobbyists, and DIYers looking to explore the world of electronics and embark on exciting projects. Whether you're a beginner looking to learn the basics of electronics or an experienced hobbyist seeking inspiration for your next project, you'll find something of interest here.
