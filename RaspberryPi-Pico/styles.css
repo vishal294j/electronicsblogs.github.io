@@ -1,7 +1,11 @@
-body {
-    font-family: Arial, sans-serif;
+/* Reset default browser styles */
+body, h1, h2, h3, p, ul, li, nav {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
     background-color: #f8f8f8;
 }
 
@@ -9,7 +13,6 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px;
-    text-align: center;
 }
 
 nav {
@@ -21,48 +24,10 @@ nav a {
     text-decoration: none;
     padding: 5px 10px;
     margin: 0 5px;
-    border-radius: 5px;
-    background-color: #555;
 }
 
 nav a:hover {
-    background-color: #777;
-}
-
-main {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-}
-
-.container {
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-.tutorial-list {
-    list-style: none;
-    padding: 0;
-}
-
-.tutorial-list li {
-    margin-bottom: 10px;
-}
-
-.tutorial-list a {
-    display: block;
-    padding: 10px;
-    background-color: #fff;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.tutorial-list a:hover {
-    background-color: #e0e0e0;
+    background-color: #555;
 }
 
 footer {
